@@ -1,3 +1,7 @@
+# Credits
+Credits goes to YouTube creator 'Javascript Mastery', where I followed his [React crash course](https://youtu.be/b9eMGE7QtTk?si=oFzfZKIe0WTMLiRV) which contained a step by step tutorial on building this app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
